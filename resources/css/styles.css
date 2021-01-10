@@ -30,3 +30,12 @@ video {
     object-fit: contain;
 }
 
+footer p{
+    text-align: right !important;
+}
+
+.footer-text {
+    font-size: 21px;
+    color: gray;
+}
+
